@@ -3,7 +3,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=swift
 
 APIKey.swift
-
+Constant.swift
 .DS_Store
 
 GoogleService-Info.plist
